@@ -22,6 +22,9 @@ Integração com WhatsApp utilizando múltiplas APIs no mesmo projeto.
 > 🎯 Ideal para quem deseja aprender ou implementar integrações reais com WhatsApp via API!
 ---
 > Demo para testes : 🔗 [Clique aqui para fazer o download](https://github.com/fraurino/multiapi_whatsapp/blob/main/MultAPIWhatsapp.exe)
+> 🔗 [Resultado do Teste vírus total](https://www.virustotal.com/gui/file/a1233e80c8b14b58c570be60bcc7c4e69487ae36880d92cd566e863cea0d6a68?nocache=1)
+
+
 
 ---
 
